@@ -14,7 +14,7 @@ I write command-line tools, security self-tests, and experimental terminal inter
 
 I prefer keeping core tools lightweight, modular, and safe by default—relying on the standard library whenever possible, verifying every change with self-tests, and avoiding unnecessary background writes.
 
-Right now, alongside expanding Jarvis, I am exploring **DNS ghosting**, **Tor network parameters and routing**, and practical **cryptography**.
+Right now, alongside expanding Jarvis, I am exploring **Domain Shadowing**, **Tor network parameters and routing**, and practical **cryptography**.
 
 ### Contact
 
