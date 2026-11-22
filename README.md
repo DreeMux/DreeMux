@@ -10,7 +10,7 @@ I write command-line tools, security self-tests, console plugins, and experiment
 
 **DMmusic** (*Made by DreeMux — Made for PS3 gamers*) is a background music player for PlayStation 3 (**CFW Evilnat 4.93 + Cobra 8.5**). Instead of touching the bootloader or `coldboot.raf`, it uses a decoupled two-part architecture: a lightweight `.pkg` frontend to scan `/dev_hdd0/MUSIC` and `/dev_usb000/MUSIC` and build playlists, paired with a low-footprint VSH `.sprx` plugin loaded via Cobra (`boot_plugins.txt`) for background playback and controller hotkeys on the XMB and in-game.
 
-**phetarch-ui** is an Electron-based `.exe` UI concept simulating a low-level ROM flash, an interactive coldboot terminal (`boot`) with a Gemini Flash API reader, and a BlackArch-inspired desktop shell with an eDEX-style easter egg. It is concluded as a standalone visual prototype and kept ready to be wired up to an upcoming project currently in development. And I'm sorry to announce that it will not be released until January 2027 becouse of personal information in the code-base.
+**Phetarch-UI** is an Electron-based `.exe` UI concept simulating a low-level ROM flash, an interactive coldboot terminal (`boot`) with a Gemini Flash API reader, and a BlackArch-inspired desktop shell with an eDEX-style easter egg. It is concluded as a standalone visual prototype and kept ready to be wired up to an upcoming project currently in development. And I'm sorry to announce that it will not be released until January 2027 becouse of personal information in the code-base.
 
 ### How I build & what I'm exploring
 
